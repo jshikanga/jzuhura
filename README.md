@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jshikanga" alt="jshikanga" /></a> </p>
 
-- 🔭 I’m currently working on **ALX data Analyst Program**
+- 🔭 I’m currently working on **ALX Data Analyst Program**
 
 - 🌱 I’m currently learning **Data Analyst - SQL**
 
